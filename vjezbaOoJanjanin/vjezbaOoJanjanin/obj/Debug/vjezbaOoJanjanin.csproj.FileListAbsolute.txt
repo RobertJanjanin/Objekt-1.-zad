@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\bin\Debug\vjezbaOoJanjanin.exe.config
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\bin\Debug\vjezbaOoJanjanin.exe
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\bin\Debug\vjezbaOoJanjanin.pdb
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\obj\Debug\vjezbaOoJanjanin.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\obj\Debug\vjezbaOoJanjanin.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\obj\Debug\vjezbaOoJanjanin.exe
+C:\Users\3.D\source\repos\vjezbaOoJanjanin\vjezbaOoJanjanin\obj\Debug\vjezbaOoJanjanin.pdb
